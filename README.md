@@ -5,7 +5,7 @@ Bu proje, kullanıcının belirlediği terim sayısı kadar Fibonacci dizisi olu
  Teknik yapı
 * **Dinamik Girdi:** Kullanıcıdan alınan komutları (start/exit) ve terim sayılarını işler.
 * **İstatistik Hesaplama:** Oluşturulan dizinin toplamını, ortalamasını, minimum ve maksimum değerlerini anlık olarak hesaplar.
-* **Hata Yönetimi:** Geçersiz sayısal girişleri kontrol eder[cite: 2].
+* **Hata Yönetimi:** Geçersiz sayısal girişleri kontrol eder.
 
  Kullanılan Fonksiyonlar
 * `generateFibonacci()`: Ana algoritmayı yöneten ve sonuçları ekrana basan fonksiyon.
